@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hsiW/kitsu/issues"
   },
-  "homepage": "https://github.com/hsiW/kitsu#readme"
+  "homepage": "https://github.com/hsiW/kitsu#readme",
+  "dependencies": {
+    "axios": "^0.16.1"
+  }
 }
