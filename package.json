@@ -1,16 +1,12 @@
 {
   "name": "kitsu",
   "version": "0.1.0",
-  "description": "",
   "main": "./lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hsiW/kitsu.git"
   },
-  "author": "Mei",
+  "author": "Mei Boudreau <xanizl@me.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hsiW/kitsu/issues"
