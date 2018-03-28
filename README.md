@@ -30,6 +30,7 @@ const kitsu = new (require('kitsu-js'));
 
     console.log(response);
 })();
+```
 
 ### License
 This project is [licensed under ISC][license].
