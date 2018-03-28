@@ -13,7 +13,7 @@ $ npm install kitsu --save
 ### Examples
 Retrieve an array of Anime objects using the passed search term:
 ```js
-const kitsu = new (require('kitsu'));
+const kitsu = new (require('kitsu-js'));
 
 (async () => {
     let response;
