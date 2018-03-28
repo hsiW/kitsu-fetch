@@ -1,5 +1,5 @@
 {
-  "name": "@meibe/kitsu-js",
+  "name": "kitsu-js",
   "version": "0.2.2",
   "main": "./lib/index.js",
   "repository": {
