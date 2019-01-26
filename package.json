@@ -1,17 +1,13 @@
 {
-  "name": "kitsu-js",
+  "name": "kitsu-fetch",
   "version": "0.3.0",
   "main": "./lib/lib.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hsiW/kitsu.git"
+    "url": "git+https://github.com/hsiW/kitsu-fetch.git"
   },
   "author": "Mei Boudreau <xanizl@me.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hsiW/kitsu/issues"
-  },
-  "homepage": "https://github.com/hsiW/kitsu#readme",
   "dependencies": {
     "node-fetch": "^2.3.0"
   }
