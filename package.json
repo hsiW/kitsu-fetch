@@ -1,6 +1,6 @@
 {
   "name": "kitsu-fetch",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "main": "./lib/lib.js",
   "repository": {
     "type": "git",

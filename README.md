@@ -17,9 +17,8 @@ const kitsu = new (require('kitsu-fetch'));
 
 (async () => {
     let response;
-
     try {
-        let response = await kitsu.searchAnime('RWBY');
+        response = await kitsu.searchAnime('RWBY');
     } catch(e) {
         // Handle error with request
 
